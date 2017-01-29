@@ -1,0 +1,2 @@
+# StringUtil
+String utility methods
